@@ -1,6 +1,7 @@
 ?#pragma once
 
-namespace EngineMathLib {
+namespace LibMath
+{
 
     /**
      * @brief Useful mathematical constant: PI
