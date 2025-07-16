@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hytal\\source\\repos\\MathEngine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hytal\\source\\repos\\MathEngine\\LibraryMath\\include\\utilities\\LibMath.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryMath\\include\\utilities\\LibMath.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibMath.h",
+              "DocumentMoniker": "C:\\Users\\hytal\\source\\repos\\MathEngine\\LibraryMath\\include\\utilities\\LibMath.h",
+              "RelativeDocumentMoniker": "LibraryMath\\include\\utilities\\LibMath.h",
+              "ToolTip": "C:\\Users\\hytal\\source\\repos\\MathEngine\\LibraryMath\\include\\utilities\\LibMath.h",
+              "RelativeToolTip": "LibraryMath\\include\\utilities\\LibMath.h",
+              "ViewState": "AgIAAOUBAAAAAAAAAAAswPsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-16T22:03:11.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
