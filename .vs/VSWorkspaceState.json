@@ -3,7 +3,10 @@
     "",
     "\\LibraryMath",
     "\\LibraryMath\\include",
+    "\\LibraryMath\\include\\matrix",
+    "\\LibraryMath\\include\\memory",
     "\\LibraryMath\\include\\utilities"
   ],
+  "SelectedNode": "\\LibraryMath\\include\\utilities\\LibMath.h",
   "PreviewInSolutionExplorer": false
 }
